@@ -45,7 +45,7 @@ The goal is to predict which customers are likely to churn based on historical a
 
 ---
 
-## 📌 Business Recommendations
+##  Business Recommendations
 
 - Encourage customers to switch to **long-term contracts**
 - Offer **discounts for high monthly bill customers**
@@ -56,7 +56,7 @@ The goal is to predict which customers are likely to churn based on historical a
 
 ---
 
-## ▶️ Try it Yourself
+##  Try it Yourself
 
 > 📌 **Open in Google Colab:**
 > [Click here to run the project in Colab](https://colab.research.google.com/drive/1xNDJ5nBXPVn6N27yHdB3abtEe5CCiiLu?usp=sharing)
